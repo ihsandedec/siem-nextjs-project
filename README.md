@@ -1,4 +1,4 @@
-<h1> SIEM Management Project </h1>
+<h1> SIEM Dashboards Projesi </h1>
 
 <h3> 📌 Proje Hakkında </h3>
 
